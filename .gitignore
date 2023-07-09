@@ -6,6 +6,13 @@ __pycache__/
 # .idea
 .idea
 
+# On-Going maintanance
+Jax
+MxNet
+Sonnet
+carvana
+data
+
 # Papers
 article.pdf
 nnUNet.pdf
